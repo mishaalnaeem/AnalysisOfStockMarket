@@ -28,7 +28,7 @@ Driver also tells what sort of behaviour it implies
 
 How to Run:
 
-python driver.py -t <ticker> -s <start date in format YYYY-MM-DD> -e <end date in format YYYY-MM-DD> -l <maxlag>
+python driver.py -t "ticker" -s "start date in format YYYY-MM-DD" -e "end date in format YYYY-MM-DD" -l "maxlag"
 
 Example:
 
